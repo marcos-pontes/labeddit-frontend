@@ -1,5 +1,5 @@
 # Labeddit - Plataforma de Compartilhamento de Conteúdo
-
+## Link do projeto https://papaya-squirrel-78eeb2.netlify.app/
 
 ## Visão Geral
 
@@ -26,7 +26,7 @@ O Labeddit é uma aplicação web desenvolvida em React que permite aos usuário
 
 ### Demo
 
-[Click here to see more]()
+[Click here to see more](https://papaya-squirrel-78eeb2.netlify.app/)
 
 ## :newspaper: Process
 
