@@ -1,6 +1,8 @@
 # Labeddit - Plataforma de Compartilhamento de Conteúdo
 ## Link do projeto https://papaya-squirrel-78eeb2.netlify.app/
 
+## link do backend https://github.com/marcos-pontes/backend-Labeddit
+
 ## Visão Geral
 
 O Labeddit é uma aplicação web desenvolvida em React que permite aos usuários compartilhar e interagir com conteúdo de maneira fácil e intuitiva. Com uma série de recursos de alta qualidade e uma arquitetura sólida, o Labeddit é a plataforma ideal para comunidades online.
