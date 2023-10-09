@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://back-end-labeddit-egr6.onrender.com'
