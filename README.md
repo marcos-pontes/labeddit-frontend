@@ -53,12 +53,3 @@ O Labeddit é uma aplicação web desenvolvida em React que permite aos usuário
 - **Navegação Avançada:** O React Router DOM é usado para oferecer uma navegação suave e intuitiva entre as diferentes páginas e funcionalidades.
 
 - **Componentização Eficiente:** O código do Labeddit é altamente componentizado, resultando em um código organizado e de fácil manutenção.
-
-
-
-
-
-
-
-
-
